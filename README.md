@@ -1,4 +1,4 @@
-Aliando Telegram Bot 
+Verina - Bot Asisten untuk GimpScape
 =========================
 
 This bot is hosted on [Gomix](https://gomix.com/about)
