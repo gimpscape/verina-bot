@@ -1,0 +1,27 @@
+{
+  "name": "bgli-bot",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.1",
+    "telegraf": "^3.6.7",
+    "lokijs": "^1.4.3"
+  },
+  "engines": {
+    "node": "6.9.x"
+  },
+  "repository": {
+    "url": "https://gomix.com/#!/project/aliando"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "gomix",
+    "express"
+  ]
+}
